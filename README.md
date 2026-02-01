@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction — End-to-End Machine Learning Project
+# 🩺 Diabetes Risk Prediction — End-to-End Machine Learning Project
 
  ### **Group Members: 16**
 
